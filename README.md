@@ -1,2 +1,2 @@
-# varsikTumanyann.github.io
+# varsikTumanyan.github.io
 The website for Web design 
